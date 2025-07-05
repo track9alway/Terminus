@@ -53,43 +53,6 @@ Terminus Dominus was built to overcome the limitations of traditional tools in t
 
 ---
 
-### 🚀 Getting Started
-
-#### 1. Prerequisites
-
-You need Python 3.8+ and the `pip` package manager.
-
-#### 2. Installation
-
-1.  **Clone the repository:**
-    ```bash
-    git clone https://github.com/your-username/terminus-dominus.git
-    cd terminus-dominus
-    ```
-
-2.  **Install dependencies:**
-    It's highly recommended to use a virtual environment.
-    ```bash
-    python -m venv venv
-    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-    pip install -r requirements.txt
-    ```
-    If `requirements.txt` does not exist, create it with the following content:
-    ```txt
-    httpx[http2]
-    rich
-    playwright
-    beautifulsoup4
-    lxml
-    ```
-
-3.  **Install Playwright browsers:**
-    This is a one-time setup that downloads the necessary browser binaries.
-    ```bash
-    playwright install
-    ```
-
----
 
 ### ⚔️ Usage
 
