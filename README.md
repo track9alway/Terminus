@@ -5,7 +5,6 @@
 
 > "For true security is born from understanding absolute destruction."
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![Status](https://img.shields.io/badge/status-active-success.svg)
 ![TRKA Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
