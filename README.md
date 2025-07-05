@@ -8,7 +8,7 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![Status](https://img.shields.io/badge/status-active-success.svg)
-![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
+![TRACK Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 
 **Terminus Dominus** is a hyper-advanced adversary emulation and stress-testing framework designed for elite Red Team operations and building anti-fragile systems. It's an educational and professional tool designed to test, not to obliterate.
 
