@@ -87,8 +87,4 @@ Your contribution, no matter the size, fuels the evolution of this tool and ensu
 
 Thank you for being a part of this mission.
 
----
 
-### 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
